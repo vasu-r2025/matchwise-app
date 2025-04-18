@@ -1,0 +1,7 @@
+streamlit
+sentence-transformers
+pdfminer.six
+python-docx
+scikit-learn
+matplotlib
+fpdf
